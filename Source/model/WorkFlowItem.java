@@ -1,5 +1,6 @@
 package Source.model;
 
-public class WorkFlowItem {
-    
+public interface WorkFlowItem {
+
+    boolean canStart();
 }

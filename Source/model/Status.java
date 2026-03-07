@@ -1,5 +1,6 @@
 package Source.model;
-
-public class Status {
-    
+public enum Status {
+    PENDING,
+    IN_PROGRESS,
+    COMPLETED
 }
