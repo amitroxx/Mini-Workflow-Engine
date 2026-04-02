@@ -14,7 +14,7 @@ public class Main {
 
         while (true) {
 
-            System.out.println("\n<<<<<<< MINI WORKFLOW ENGINE >>>>>>>");
+            System.out.println("\nMINI WORKFLOW ENGINE");
             System.out.println("1 Add Task");
             System.out.println("2 Add Dependency");
             System.out.println("3 Complete Task");
@@ -63,7 +63,7 @@ public class Main {
 
                     case "5":
 
-                        System.out.println("Bye!");
+                        System.out.println("Thank You For Giving Your TIME !!");
                         return;
 
                     default:
